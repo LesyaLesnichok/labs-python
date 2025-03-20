@@ -1,0 +1,5 @@
+Studenty stworzą klasę Cyrk, ktora dziedziczy po klasie, cyrkna kolkach,
+ktora dziedziczy po klasie Balwan a klasa Balwan jest klasa abstrakcyjna
+i zawiera metody tworzenie balwana oraz eliminacja balwana. klasa cyrk
+na kolkach musi zawierac klasyz Balwana a powolujac obiekt
+Cyrk uzywamy klas z balwana
